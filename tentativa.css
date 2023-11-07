@@ -1,0 +1,21 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(0, 0, 0, 0.986);
+    background-image: linear-gradient(rgb(106, 85, 121), rgb(15, 41, 112), rgb(0, 111, 119));        
+}
+
+.question {
+    margin-bottom: 30px;
+    font-size: 30px
+}
+
+.answers label {
+    display: block;
+    margin-top: 5px;
+    font: size 25px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
