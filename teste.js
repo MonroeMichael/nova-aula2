@@ -3,31 +3,31 @@ const quizContainer = document.getElementById('quiz');
 
         const myQuestions = [
             {
-                question: "Qual é a raiz quadrada do 81?",
+                question: "Qual é a raiz quadrada do 36?",
                 answers: {
-                    a: "9",
+                    a: "6",
                     b: "7",
-                    c: "6",
+                    c: "9",
                     d: "8"
                 },
                 correctAnswer: "a"
             },
             {
-                question: "Qual é a raiz quadrada de 49?",
+                question: "Qual é a raiz quadrada de 81?",
                 answers: {
                     a: "8",
-                    b: "7",
+                    b: "9",
                     c: "9",
                     d: "17"
                 },
                 correctAnswer: "b"
             },
             {
-                question: "Qual é a raiz quadrada de 64?",
+                question: "Qual é a raiz cubica de 9?",
                 answers: {
                     a: "7",
                     b: "623",
-                    c: "8",
+                    c: "3",
                     d: "9"
                 },
                 correctAnswer: "c"
