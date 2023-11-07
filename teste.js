@@ -52,6 +52,26 @@ const quizContainer = document.getElementById('quiz');
                 },
                 correctAnswer: "a"
             },
+                  {
+                question: "Se eu tiro quatro leitas da palavra biscoito fico com?",
+                answers: {
+                    a: "oito",
+                    b: "quatro",
+                    c: "doze",
+                    d: "dez"
+                },
+                correctAnswer: "a"
+            },
+                 {
+                question: "Qual região do país tem verme de coco como comida?",
+                answers: {
+                    a: "Nordeste",
+                    b: "Sudeste",
+                    c: "Norte",
+                    d: "Centro-oeste"
+                },
+                correctAnswer: "a"
+            },
         ];
         
         function showQuiz() {
